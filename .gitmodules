@@ -1,3 +1,6 @@
+[submodule "content/themes/blog"]
+	path = content/themes/blog
+	url = git@github.com:abnopanda/Blog.git
 [submodule "content/themes/casper"]
 	path = content/themes/casper
-	url = https://github.com/TryGhost/Casper.git
+	url = git@github.com:TryGhost/Casper.git
